@@ -39,7 +39,7 @@ Perfect for ephemeral fun, lightweight conversations, or just a cool demo of rea
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/poof40.git
+git clone https://github.com/yashjhota/Poof40Chatapp.git
 cd poof40
 npm install
 npm run dev
