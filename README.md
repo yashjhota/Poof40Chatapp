@@ -32,8 +32,8 @@ Perfect for ephemeral fun, lightweight conversations, or just a cool demo of rea
 
 ## 📸 Preview
 
-> [Preview](https://github.com/yashjhota/Poof40Chatapp/blob/main/Images/Screenshot%202025-04-15%20231245.png)
-> [p](https://github.com/yashjhota/Poof40Chatapp/blob/main/Images/Screenshot%202025-04-15%20232038.png)
+> [MainPage](https://github.com/yashjhota/Poof40Chatapp/blob/main/Images/Screenshot%202025-04-15%20231245.png)
+> [ChatPage](https://github.com/yashjhota/Poof40Chatapp/blob/main/Images/Screenshot%202025-04-15%20232038.png)
 
 ---
 
