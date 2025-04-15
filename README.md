@@ -1,3 +1,5 @@
+![Poof40 Banner](https://github.com/yashjhota/Poof40Chatapp/blob/main/Images/Banner.png)
+
 # 💬 Poof40 — Real-Time Chat That *Disappears* 💨
 
 **Poof40** is a sleek, real-time chat app where messages vanish like magic after 40 seconds! ✨  
