@@ -47,3 +47,37 @@ cd poof40
 npm install
 npm run dev
 ```
+
+## ✨ Environment Setup
+
+Create a .env file in the root directory with your Supabase project credentials:
+```bash
+VITE_SUPABASE_URL=your-supabase-url
+VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
+```
+## 🧠 PostgreSQL Trigger Setup
+
+In Supabase SQL editor, run the following to auto-delete messages after 40 seconds:
+
+```bash
+CREATE OR REPLACE FUNCTION delete_old_messages()
+RETURNS TRIGGER AS $$
+BEGIN
+  DELETE FROM messages WHERE inserted_at < NOW() - INTERVAL '40 seconds';
+  RETURN NULL;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER auto_delete_messages
+AFTER INSERT ON messages
+EXECUTE FUNCTION delete_old_messages();
+```
+This trigger removes old messages each time a new one is added.
+
+## 🌐 Live Demo
+
+🔗 [Poof40](https://jhotapoof40.netlify.app/)
+
+## 💡 Inspired by the idea of letting go... 🕊️
+No history. No pressure. Just talk and let it go — like it was never there.
+
