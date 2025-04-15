@@ -1,4 +1,4 @@
-![Poof40 Banner](https://github.com/yashjhota/Poof40Chatapp/blob/main/Images/Banner.png)
+![Poof40 Banner](https://github.com/yashjhota/Poof40Chatapp/blob/main/Images/Screenshot%202025-04-15%20232121.png)
 
 # 💬 Poof40 — Real-Time Chat That *Disappears* 💨
 
@@ -32,7 +32,8 @@ Perfect for ephemeral fun, lightweight conversations, or just a cool demo of rea
 
 ## 📸 Preview
 
-> *(Insert a screenshot or GIF here to show off the app)*
+> [Preview](https://github.com/yashjhota/Poof40Chatapp/blob/main/Images/Screenshot%202025-04-15%20231245.png)
+> [p](https://github.com/yashjhota/Poof40Chatapp/blob/main/Images/Screenshot%202025-04-15%20232038.png)
 
 ---
 
